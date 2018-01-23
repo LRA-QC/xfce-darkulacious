@@ -2,4 +2,4 @@
 XFCE Dark theme
 
 # installation
-move xfce-darkulacious to ~/.themes/ or /usr/share/themes
+move the xfce-darkulacious folder to ~/.themes/ or /usr/share/themes
